@@ -1,0 +1,3575 @@
+[
+  {
+    "cat_num": "1060",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "285",
+    "title": "Multi-Agent Systems",
+    "faculty": [
+      {
+        "id": "Fb023f4580b03208372b9df7b3c6f8c6f",
+        "first": "David",
+        "middle": "",
+        "last": "Parkes",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Algorithmic, game-theoretic and logical foundations of multi-agent systems, including distributed optimization and problem solving, non-cooperative game theory, learning and teaching, communication, social choice, mechanism design, auctions, negotiation, coalitional game theory, logics of knowledge and belief, collaborative plans and social systems.",
+    "prerequisites": "Computer Science 181 or 182, or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI181"
+      ],
+      "2": [
+        "COMPSCI182"
+      ],
+      "3": [
+        "perm"
+      ]
+    },
+    "notes": "",
+    "workload":"",
+    "q": ""
+  },
+  {
+    "cat_num": "1099",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "286r",
+    "title": "Topics at the Interface between Computer Science and Economics",
+    "faculty": [
+      {
+        "id": "F95f8fce2aa8b3f2676e025b2d0cd3ae6",
+        "first": "Yiling",
+        "middle": "",
+        "last": "Chen",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Interplay between computation and economics. Topics in electronic commerce, computational social choice, computational mechanism design, peer production, prediction markets and reputation systems. Readings in AI, theoretical CS, multi-agent systems, economic theory, and operations research.",
+    "prerequisites": "Mathematics 21b, Applied Mathematics 21b, or equivalent; Economics 1011a, or equivalent; or permission of instructor.",
+    "requirements": {
+      "1": [
+        "MTH21B",
+        "EC1011A"
+      ],
+      "2": [
+        "APMTH21B",
+        "EC1011A"
+      ],
+      "3": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "11014",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "377",
+    "title": "Sketching Algorithms for Massive Data",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "11199",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "280r",
+    "title": "Advanced Topics in Artificial Intelligence",
+    "faculty": [
+      {
+        "id": "F5358e0ee0d214f2be1b059c6c1a5bd82",
+        "first": "Barbara",
+        "middle": "J.",
+        "last": "Grosz",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Seminar",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Seminar",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Seminar",
+        "building": "Maxwell Dworkin",
+        "room": "223"
+      }
+    ],
+    "description": "Seminar course exploring research directions in artificial intelligence (AI), typically combining two or more of such areas as multi-agent systems, natural-language processing, machine learning, reasoning under uncertainty, representation systems. Topic for Spring 2015: Multi-agent systems teamwork and plan management.",
+    "prerequisites": "Computer Science 181 or 182, or equivalent; or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI181"
+      ],
+      "2": [
+        "COMPSCI182"
+      ],
+      "3": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1160",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "327",
+    "title": "Mathematical Logic, Theory of Computation",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "13059",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "319",
+    "title": "Data Systems Design",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "134",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "182",
+    "title": "Intelligent Machines: Reasoning, Actions, and Plans",
+    "faculty": [
+      {
+        "id": "F5358e0ee0d214f2be1b059c6c1a5bd82",
+        "first": "Barbara",
+        "middle": "J.",
+        "last": "Grosz",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Introduction to AI focused on problems in reasoning about action and rational decision making, covering search, knowledge representation and planning. Search: heuristics, informed search and optimization; constraint satisfaction; game playing. Knowledge representation: logics, efficient logical inference, reasoning about categories. Planning: action representations and planning algorithms, hierarchical task networks, sequential decision making. Applications to multi-agent systems, robotics and natural-language processing. Discussion of relevant work in philosophy, economics, and decision theory.",
+    "prerequisites": "Computer Science 51; Computer Science 121 (may be taken concurrently).",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI121"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1435",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "279",
+    "title": "Research Topics in Human-Computer Interaction",
+    "faculty": [
+      {
+        "id": "Fc1f06adf0423e998132e85b26c01c824",
+        "first": "Krzysztof",
+        "middle": "Z",
+        "last": "Gajos",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "319"
+      }
+    ],
+    "description": "The course covers major areas of inquiry and core research methods in Human-Computer Interaction including experimental design, statistical data analysis, and qualitative methods. Activities will include discussion of primary literature, a small number of lectures, assignments (design, execution and analysis of both lab-based and on-line experiments), and a research project. Special focus this year is on social computing and crowd-powered systems. Specifically, we will look at the design and analysis of systems, in which crowds of intrinsically motivated volunteers contribute to meaningful and non-trivial human computation tasks as a byproduct of doing something that they are motivated to do anyway.",
+    "prerequisites": "None for graduate students; for undergrads CS 179 or CS 171 is strongly recommended and permission of the instructor is required. Basic web hacking is required to implement and deploy web-based experiments.",
+    "requirements": {
+      "1": [
+        "COMPSCI171",
+        "perm"
+      ],
+      "2": [
+        "COMPSCI179",
+        "perm"
+      ]
+    },
+    "notes": "Designed for first year grads from all areas. Advanced undergraduates welcome, particularly those who wish to do research (or write a thesis) in an area related to Human-Computer Interaction."
+  },
+  {
+    "cat_num": "1477",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "360",
+    "title": "On-line Algorithms and Randomized Algorithms",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "15739",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "305",
+    "title": "Readable, Extensible, High-Performance Software Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "15849",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "325",
+    "title": "Intelligent Interactive Systems and Human-Computer",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1628",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "314",
+    "title": "Visual Computing",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1637",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "227r",
+    "title": "Topics in Cryptography and Privacy",
+    "faculty": [
+      {
+        "id": "F2b0e68c46bec37e45b807d830d390607",
+        "first": "Yaacov",
+        "middle": "",
+        "last": "Nissim Kobliner",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "119"
+      }
+    ],
+    "description": "Topics in cryptography and data privacy drawn from the theoretical computer science research literature. Focus for 2014-15: Differential Privacy -- a mathematical framework for privacy-preserving analysis of datasets, which enables aggregate computations while preventing the leakage of individual-level information.",
+    "prerequisites": "Computer Science 124, 125, or 127.",
+    "requirements": {
+      "1": [
+        "COMPSCI124"
+      ],
+      "2": [
+        "COMPSCI125"
+      ],
+      "3": [
+        "COMPSCI127"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "17423",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "306",
+    "title": "Readable, Extensible, High-Performance Software Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1772",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "148",
+    "title": "Design of VLSI Circuits and Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "Presentation of concepts and techniques for the design and fabrication of VLSI systems and digital MOS integrated circuits. Topics include: basic semiconductor theory; MOS transistors and digital MOS circuits design; synchronous machines, clocking, and timing issues; high-level description and modeling of VLSI systems; synthesis and place and route design flows; and testing of VLSI circuits and systems. Various CAD tools for design, simulation, and verification are extensively used.",
+    "prerequisites": "Computer Science 141 or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI141"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1882",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "347",
+    "title": "Computer Vision",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "1986",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "252r",
+    "title": "Advanced Topics in Programming Languages",
+    "faculty": [
+      {
+        "id": "Fee479778e183acc835de097457884530",
+        "first": "Stephen",
+        "middle": "",
+        "last": "Chong",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "323"
+      }
+    ],
+    "description": "Seminar course exploring recent research in programming languages. Topics vary from year to year. Students read and present research papers, undertake a research project.",
+    "prerequisites": "Computer Science 152 or permission of the instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI152"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "20798",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "380",
+    "title": "Algorithms for Social Data",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2083",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "265",
+    "title": "Big Data Systems",
+    "faculty": [
+      {
+        "id": "Faa7f05b3ea5892d11570772b0c4a332d",
+        "first": "Stratos",
+        "middle": "",
+        "last": "Idreos",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "5",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "323"
+      }
+    ],
+    "description": "Big data is everywhere. A fundamental goal across numerous modern businesses and sciences is to be able to exploit as many machines as possible, to consume as much information as possible and as fast as possible. The big challenge is \"how to turn data into useful knowledge\". This is far from a simple task and a moving target as both the underlying hardware and our ability to collect data evolve. In this class, we will discuss how to design data systems and algorithms that can \"scale up\" and \"scale out\". Scale up refers to the ability to use a single machine to all its potential, i.e., to exploit properly the memory hierarchy and the multiple CPU and GPU cores. Scale out refers to the ability to use more than 1 machines (typically 100s or 1000s) effectively. This is a research oriented class. Every week we will read two modern research papers; one from the scale up area and one from the scale out area. We will use examples from several areas, including relational systems and distributed databases, graph processing systems (i.e., for social networks), key value stores, noSQL and newSQL systems as well as mobile computing. Each student will work on a semester long data systems research project (in groups of 2-4 students) which can be in any of the above areas and will be based on an open research problem.",
+    "prerequisites": "CS 165 or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI165"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2104",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "359",
+    "title": "On-line Algorithms and Randomized Algorithms",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "218",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "351",
+    "title": "Cryptography: Unbreakable Codes and Financial Cryptography",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "22235",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "20",
+    "title": "Discrete Mathematics for Computer Science",
+    "faculty": [
+      {
+        "id": "Fef8dd6205fc4f0d91a44b7c65bf603ad",
+        "first": "Harry",
+        "middle": "R.",
+        "last": "Lewis",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:00:00"
+      },
+      {
+        "day": "5",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "301"
+      }
+    ],
+    "description": "Widely applicable mathematical tools for computer science, including topics from logic, set theory, combinatorics, number theory, probability theory, and graph theory. Practice in reasoning formally and proving theorems.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "Covers material used in Computer Science 121 and Computer Science 124. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning."
+  },
+  {
+    "cat_num": "23635",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "127",
+    "title": "Introduction to Cryptography",
+    "faculty": [
+      {
+        "id": "Fba6f67cdb84f203cc4d6c531b5629fbe",
+        "first": "Salil",
+        "middle": "P.",
+        "last": "Vadhan",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Algorithms to guarantee privacy and authenticity of data during communication and computation. Proofs of security based on precise definitions and assumptions. Topics may include one-way functions, private-key and public-key encryption, digital signatures, pseudorandom generators, zero-knowledge proofs, fully homomorphic encryption, and the role of cryptography in network and systems security.",
+    "prerequisites": "Computer Science 121 or Computer Science 124.",
+    "requirements": {
+      "1": [
+        "COMPSCI121"
+      ],
+      "2": [
+        "COMPSCI124"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2450",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "323",
+    "title": "Human-Computer Communication through Natural, Graphical, and Artificial Languages",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2453",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "324",
+    "title": "Human-Computer Communication through Natural, Graphical, and Artificial Languages",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "249",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "187",
+    "title": "Computational Linguistics",
+    "faculty": [
+      {
+        "id": "F96aea20751bf9770f185c3ed5ffbe11e",
+        "first": "Stuart",
+        "middle": "M.",
+        "last": "Shieber",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "119"
+      }
+    ],
+    "description": "Watson is the world Jeopardy champion. Siri responds accurately to \"Should I bring an umbrella tomorrow?\". How do they work? This course provides an introduction to the field of computational linguistics, the study of human language using the tools and techniques of computer science, with applications to a variety of natural-language-processing problems such as those deployed in Watson and Siri, and covers pertinent ideas from linguistics, logic programming, and statistical modeling. The course will include an experimental practicum component covering skills in technical writing and editing that should be of general use as well.",
+    "prerequisites": "Computer Science 51 and Computer Science 121 or permission of the instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI121"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2493",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "222",
+    "title": "Algorithms at the Ends of the Wire",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "Covers topics related to algorithms for big data, especially related to networks. Themes include compression, cryptography, coding, and information retrieval related to the World Wide Web. Requires a major final project.",
+    "prerequisites": "Computer Science 124.",
+    "requirements": {
+      "1": [
+        "COMPSCI124"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "255",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "352",
+    "title": "Cryptography: Unbreakable Codes and Financial Cryptography",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2842",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "153",
+    "title": "Compilers",
+    "faculty": [
+      {
+        "id": "F0d385eae518092ada5b41e8c64bb0f13",
+        "first": "Greg",
+        "middle": "",
+        "last": "Morrisett",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Implementation of efficient interpreters and compilers for programming languages. Associated algorithms and pragmatic issues. Emphasizes practical applications including those outside of programming languages proper. Also shows relationships to programming-language theory and design. Participants build a working compiler including lexical analysis, parsing, type checking, code generation, and register allocation. Exposure to run-time issues and optimization.",
+    "prerequisites": "Computer Science 51 or 61.",
+    "requirements": {
+      "1": [
+        "COMPSCI51"
+      ],
+      "2": [
+        "COMPSCI61"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "2892",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "315",
+    "title": "Social Computing: Computation and Economics",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3018",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "244r",
+    "title": "Networks Design Projects",
+    "faculty": [
+      {
+        "id": "Fab8407c04815d5cc75e496a62d13b31b",
+        "first": "H.T.",
+        "middle": "",
+        "last": "Kung",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "The contents and course requirements are similar to those of Computer Science 144r, with the exception that students enrolled in Computer Science 244r are expected to do substantial system implementation and perform graduate-level work.",
+    "prerequisites": "Computer Science 143 or equivalent experience.",
+    "requirements": {
+      "1": [
+        "COMPSCI143"
+      ]
+    },
+    "notes": "Preference given to upper-class undergraduates or graduate students in computer science or in business who are proficient in computer programming or in business software."
+  },
+  {
+    "cat_num": "3067",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "277",
+    "title": "Geometric Modeling in Computer Graphics",
+    "faculty": [
+      {
+        "id": "Fe37b7e34e6c6adf9d7431b16ba61a9ac",
+        "first": "Steven",
+        "middle": "J.",
+        "last": "Gortler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "319"
+      }
+    ],
+    "description": "Advanced seminar in computer graphics focusing on geometric representations and processing. Topics include: subdivision surfaces, surface parametrization, vector fields over surfaces, shape editing, shape matching and surface reconstruction.",
+    "prerequisites": "Computer Science 175.",
+    "requirements": {
+      "1": [
+        "COMPSCI175"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "31335",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "2",
+    "title": "Digital Platforms",
+    "faculty": [
+      {
+        "id": "F5aece5c57c2169c10a3b79ed6fea9526",
+        "first": "Jonathan",
+        "middle": "L.",
+        "last": "Zittrain",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "The Internet operates in layers, and so does much of the technology that hooks up to it: PCs, mobile phones, tablets. Nearly two decades ago those platforms were conceptually simple: a \"generative\" base offered by one manufacturer, on which any third party could build. (Think: Windows and the programs that run on it.) Some efforts by platform makers to tip the scales in their favor in the layer above resulted in extended controversy and regulatory efforts, such as over Windows coming bundled with Internet Explorer. Today platforms are just as vital but far more complex. We have hybrids like the iOS and Android operating systems or the Facebook and Twitter platforms, where the platform makers offer their systems as services rather than products, influencing and sometimes outright limiting connection between users and independent developers for those platforms. How should we think about these new platforms? What counts as a \"level playing field,\" and what responsibility, if any, is there for public authorities to enforce it? What lessons, if any, do the prior tangles offer for today?",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "This course is jointly-offered with the Kennedy School as DPI-668 and with the Law School as 2601."
+  },
+  {
+    "cat_num": "32918",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "224",
+    "title": "Advanced Algorithms",
+    "faculty": [
+      {
+        "id": "F2b1aa692e853a5d6b4059d87f5626178",
+        "first": "Jelani",
+        "middle": "",
+        "last": "Nelson",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Cruft Memorial Lab",
+        "room": "309"
+      }
+    ],
+    "description": "Advanced algorithm design, including but not limited to amortization, randomization, online algorithms, graph algorithms, approximation algorithms, linear programming, and data structures.",
+    "prerequisites": "CS 124 and probability.",
+    "requirements": {
+      "1": [
+        "COMPSCI124"
+      ],
+      "2": [
+        "STAT110"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3306",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "287r",
+    "title": "Topics in Computational Linguistics and Natural Language Processing",
+    "faculty": [
+      {
+        "id": "F96aea20751bf9770f185c3ed5ffbe11e",
+        "first": "Stuart",
+        "middle": "M.",
+        "last": "Shieber",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "15:00:00",
+        "end_time": "17:00:00"
+      },
+      {
+        "day": "5",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "15:00:00",
+        "end_time": "17:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "323"
+      }
+    ],
+    "description": "In-depth investigation of topics in computational linguistics and natural-language processing. Students discuss research papers and undertake a significant research project. This term, the course will focus on synchronous grammars and their use for formal modeling of the semantics of natural language, including background on Montague grammar, pertinent logic, lambda calculus, applications to machine translation and other language-processing problems.",
+    "prerequisites": "Computer Science 187 or Linguistics 116 or permission of instructor.",
+    "requirements": {
+    },
+    "notes": "The course is being offered jointly with the linguistics program as Linguistics 287, with computationally-oriented final projects. Students may not take both Computer Science 287r and Linguistics 287 for credit."
+  },
+  {
+    "cat_num": "33846",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "207",
+    "title": "Systems Development for Computational Science",
+    "faculty": [
+      {
+        "id": "F423284d44b50e57a3f46b2ec875259db",
+        "first": "Cristopher",
+        "middle": "",
+        "last": "Cecka",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:00:00",
+        "end_time": "12:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:00:00",
+        "end_time": "12:00:00"
+      },
+      {
+        "day": "5",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:00:00",
+        "end_time": "12:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "60 Oxford Street",
+        "room": "330"
+      }
+    ],
+    "description": "This is a project-based course emphasizing designing, building, testing, maintaining and modifying software for scientific computing. Students will work in groups on a number of projects, ranging from small data-transformation utilities to large-scale systems. Students will learn to use a variety of tools and languages, as well as various techniques for organizing teams. Most important, students will learn to fit tools and approaches to the problem being solved.",
+    "prerequisites": "Students are expected to have basic programming experience (Computer Science 50).",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3411",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "51",
+    "title": "Introduction to Computer Science II",
+    "faculty": [
+      {
+        "id": "F0d385eae518092ada5b41e8c64bb0f13",
+        "first": "Greg",
+        "middle": "",
+        "last": "Morrisett",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Science Center",
+        "room": " C"
+      }
+    ],
+    "description": "Abstraction and design in computation. Topics include functional and object-oriented styles of programming, software engineering in the small, and models of computation. Our main goal is to understand how to design large programs to make them readable, maintainable, elegant, and efficient. Exercises in OCaml.",
+    "prerequisites": "Computer Science 50 or equivalent.",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "345",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "355",
+    "title": "Computational Complexity, Parallel Computation, Computational Learning, Neural Computation",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "346",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "356",
+    "title": "Computational Complexity, Parallel Computation, Computational Learning, Neural Computation",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3461",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "61",
+    "title": "Systems Programming and Machine Organization",
+    "faculty": [
+      {
+        "id": "Fcdf8bf39a49c70d6218dd80cd27b715b",
+        "first": "Eddie",
+        "middle": "",
+        "last": "Kohler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-115"
+      }
+    ],
+    "description": "Fundamentals of computer systems programming, machine organization, and performance tuning. This course provides a solid background in systems programming and a deep understanding of low-level machine organization and design. Topics include C and assembly language programming, program optimization, memory hierarchy and caching, virtual memory and dynamic memory management, concurrency, threads, and synchronization.",
+    "prerequisites": "CS50 or some experience programming in C.",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3485",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "357",
+    "title": "Computational Complexity, Cryptography, and Pseudorandomness",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "35335",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "125",
+    "title": "Algorithms and Complexity",
+    "faculty": [
+      {
+        "id": "Fba6f67cdb84f203cc4d6c531b5629fbe",
+        "first": "Salil",
+        "middle": "P.",
+        "last": "Vadhan",
+        "suffix": ""
+      },
+      {
+        "id": "Fdf98ae395fa9bc5f55668e19a773f4a2",
+        "first": "Michael",
+        "middle": "D.",
+        "last": "Mitzenmacher",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "An accelerated introduction to theoretical computer science for students with strong mathematical preparation, to be taken in place of both Computer Science 121 and 124. Algorithm design methods, including graph algorithms, approximation algorithms, and randomized algorithms. Models of computation, computability theory, and computational complexity, including the P vs. NP question.",
+    "prerequisites": "Comfort with reading and writing mathematical proofs, at the level of Math 25 or 55 (which may be taken concurrently).",
+    "requirements": {
+      "1": [
+        "MTH25"
+      ],
+      "2": [
+        "MTH55"
+      ]
+    },
+    "notes": "Students may not receive credit for both CS 125 and either CS 121 or CS 124."
+  },
+  {
+    "cat_num": "3576",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "328",
+    "title": "Mathematical Logic, Theory of Computation",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "361",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "91r",
+    "title": "Supervised Reading and Research",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "Supervised individual study of advanced topics in computer science. A student wishing to enroll in Computer Science 91r must be accepted by a faculty member who will supervise the course work. A form available from the Student Affairs Office, Pierce Hall 110, must be filled out and signed by the student and faculty supervisor. Students writing theses may enroll in this course while conducting thesis research and writing.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "At most two terms of Computer Science 91r may be taken for academic credit. May not be taken Pass/Fail. Students wishing more information about the range of suitable projects or faculty supervisors should consult the Director of Undergraduate Studies."
+  },
+  {
+    "cat_num": "364",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "228",
+    "title": "Computational Learning Theory",
+    "faculty": [
+      {
+        "id": "F06680d30ef16fcc4e07d9c80c4a008f3",
+        "first": "Leslie",
+        "middle": "G.",
+        "last": "Valiant",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Possibilities of and limitations to performing learning by computational agents. Topics include computational models, polynomial time learnability, learning from examples and learning from queries to oracles. Applications to Boolean functions, automata and geometric functions.",
+    "prerequisites": "Computer Science 121 or equivalent.",
+    "requirements": {
+      "1": [
+        "COMPSCI121"
+      ],
+      "2": [
+        "COMPSCI124"
+      ],
+      "3": [
+        "COMPSCI125"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "36932",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "189r",
+    "title": "Autonomous Multi-Robot Systems",
+    "faculty": [
+      {
+        "id": "F5a48e4e06e3dece44781a13510b69216",
+        "first": "Radhika",
+        "middle": "",
+        "last": "Nagpal",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "5",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "B127"
+      }
+    ],
+    "description": "Building autonomous robotic systems requires understanding how to make robots that observe, reason, and act. Each component uses many engineering principles: how to fuse, multiple, noisy sensors; how to balance short-term versus long-term goals; how to control ones actions and how to coordinate with others. This year, we will study these questions in the context of a project to develop autonomous robot soccer teams. The class format will mix seminar and lab formats.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "Preference will be given to students with experience in AI (e.g. CS181 or CS182 and/or robotics ES159)."
+  },
+  {
+    "cat_num": "37287",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "379",
+    "title": "Algorithms for Social Data",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "37293",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "90na",
+    "title": "The Internet: Governance and Power",
+    "faculty": [
+      {
+        "id": "Fa57bc9d1396cbf4386ccfeda32429214",
+        "first": "Bruce",
+        "middle": "",
+        "last": "Schneier",
+        "suffix": ""
+      },
+      {
+        "id": "Fd41aa62c7c8f218a270f7397a38675a2",
+        "first": "Jack",
+        "middle": "L.",
+        "last": "Goldsmith",
+        "suffix": "III"
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Seminar",
+        "optional": false,
+        "begin_time": "17:00:00",
+        "end_time": "19:00:00"
+      }
+    ],
+    "locations": [],
+    "description": "This seminar will examine the individuals and institutions that control the Internet, and how the Internet affects the distribution and operation of power, broadly conceived. We will examine technologies of control (such as surveillance, censorship, propaganda, and use control) and of evading control, the individuals and institutions that seek to regulate the Internet (such as governments, the IETF, and hackers), the relationship between cybersecurity, national security, and Internet governance, the economics of Internet communications, and more.",
+    "prerequisites": "Seminar is by permission of instructor. Please send a statement of interest and resume to qashat@law.harvard.edu. Please include your year and program information as well. The application deadline for HLS/FAS/SEAS students is October 31. The application deadline for HKS students is November 7.",
+    "requirements": {
+      "1": [
+        "perm"
+      ]
+    },
+    "notes": "Offered jointly with the Kennedy School and the Law School. This course does not count for concentration credit in Computer Science."
+  },
+  {
+    "cat_num": "3730",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "229r",
+    "title": "Topics in the Theory of Computation: Biology and Complexity",
+    "faculty": [
+      {
+        "id": "F06680d30ef16fcc4e07d9c80c4a008f3",
+        "first": "Leslie",
+        "middle": "G.",
+        "last": "Valiant",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "319"
+      }
+    ],
+    "description": "Biology abounds with step by step processes, whether in evolution, neural activity, development, or protein circuits. In many of these neither the actual steps taken nor the outcomes are well understood. Computer science is the study of step by step processes and offers an approach to understanding them as they occur in biology. Students will read, present, and critically evaluate research papers in this area.",
+    "prerequisites": "Computer Science 121 or equivalent.",
+    "requirements": {
+      "1": [
+        "COMPSCI121"
+      ],
+      "2": [
+        "COMPSCI124"
+      ],
+      "3": [
+        "COMPSCI125"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "3771",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "175",
+    "title": "Computer Graphics",
+    "faculty": [
+      {
+        "id": "Fe37b7e34e6c6adf9d7431b16ba61a9ac",
+        "first": "Steven",
+        "middle": "J.",
+        "last": "Gortler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "This course covers the fundamentals of 3D computer graphics using a modern shader-based version of OpenGL. Main topics include: geometric coordinate systems and transformations, keyframe animation and interpolation, camera simulation, triangle rasterization, material simulation, texture mapping, image sampling and color theory. The course also touches on ray tracing, geometric modeling and simulation-based animation.",
+    "prerequisites": "Computer Science 51, Applied Mathematics 21b or Mathematics 21b.",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "MTH21B"
+      ],
+      "2": [
+        "COMPSCI51",
+        "APMTH21B"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4052",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "179",
+    "title": "Design of Usable Interactive Systems",
+    "faculty": [
+      {
+        "id": "Fc1f06adf0423e998132e85b26c01c824",
+        "first": "Krzysztof",
+        "middle": "Z",
+        "last": "Gajos",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "301"
+      }
+    ],
+    "description": "Usability and design as keys to successful technology. Covers user observation techniques, needs assessment, low and high fidelity prototyping, usability testing methods, as well as theory of human perception and performance, and design best practices. Focuses on understanding and applying the lessons of human interaction to the design of usable systems; will also look at lessons to be learned from less usable systems. The course includes several small and one large project.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4085",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "321",
+    "title": "Databases, Operating System, and Software Design",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4086",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "322",
+    "title": "Databases, Operating System, and Software Design",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4273",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "313",
+    "title": "Visual Computing",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4347",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "161",
+    "title": "Operating Systems",
+    "faculty": [
+      {
+        "id": "F69e7709bfa572dad6549b62e71dde145",
+        "first": "Margo",
+        "middle": "I.",
+        "last": "Seltzer",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "301"
+      }
+    ],
+    "description": "The fundamental principles of resource management and abstraction in modern operating systems. Control abstractions: threads, processes, scheduling, synchronization. Storage abstractions: dynamic memory allocation, virtual memory, file system design. Communication abstractions: interprocess communication, networking. Case studies. Design and implementation of parts of a multiuser multitasking virtual-memory operating system.",
+    "prerequisites": "Computer Science 51 and 61.",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI61"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4357",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "141",
+    "title": "Computing Hardware",
+    "faculty": [
+      {
+        "id": "F7f384ab8ed6845286c5a6be08e4e28a5",
+        "first": "David",
+        "middle": "",
+        "last": "Brooks",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Introduction to the design, structure, and operation of digital computers; logic circuits and digital electronics; computer arithmetic; computer architecture; and machine language programming. Consideration of the design interactions between hardware and software systems.",
+    "prerequisites": "Programming experience required.",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": "Programming experience required."
+  },
+  {
+    "cat_num": "4475",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "283",
+    "title": "Computer Vision",
+    "faculty": [
+      {
+        "id": "F2c9aa22a2d066d6e5b72b083721f96c7",
+        "first": "Todd",
+        "middle": "",
+        "last": "Zickler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Vision as an ill-posed inverse problem: image formation, two-dimensional signal processing; feature analysis; image segmentation; color, texture, and shading; multiple-view geometry; object and scene recognition; and applications.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "Offered jointly with the Design School as SCI-06275."
+  },
+  {
+    "cat_num": "4592",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "299r",
+    "title": "Special Topics in Computer Science",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "Supervision of experimental or theoretical research on acceptable computer science problems and supervision of reading on topics not covered by regular courses of instruction.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "Open to graduate students and AB/SM candidates only. Students must arrange such work with a member of the School of Engineering and Applied Sciences. This course is graded and is ordinarily taken with the approval of the Committee on Higher Degrees. Applicants must file a project sheet before study cards are filed. Project sheets may be obtained from the Academic Office, Pierce Hall 110."
+  },
+  {
+    "cat_num": "46531",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "303",
+    "title": "Statistical Machine Learning",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4677",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "311",
+    "title": "Collaborative Systems, AI Planning, and Natural Language Processing",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4740",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "223",
+    "title": "Probabilistic Analysis and Algorithms",
+    "faculty": [
+      {
+        "id": "Fdf98ae395fa9bc5f55668e19a773f4a2",
+        "first": "Michael",
+        "middle": "D.",
+        "last": "Mitzenmacher",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Probabilistic techniques and tools for the design and analysis of algorithms. Designed for all first-year graduate students in all areas.",
+    "prerequisites": "Computer Science 124. Preferably additional probability, such as in Computer Science 226r, Statistics 110, or Mathematics 191.",
+    "requirements": {
+      "1": [
+        "COMPSCI124"
+      ],
+      "2": [
+        "STAT110"
+      ],
+      "5": [
+        "MTH191"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "48162",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "247r",
+    "title": "Advanced Topics in Computer Architecture",
+    "faculty": [
+      {
+        "id": "F7f384ab8ed6845286c5a6be08e4e28a5",
+        "first": "David",
+        "middle": "",
+        "last": "Brooks",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Seminar course exploring recent research in computer architecture. Topics vary from year to year and will include subjects such as multi-core architectures, energy-efficient computing, reliable computing, and the interactions of these issues with system software. Students read and present research papers, undertake a research project.",
+    "prerequisites": "Computer Science 146 or 246 or permission of the instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI146"
+      ],
+      "2": [
+        "COMPSCI246"
+      ],
+      "3": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4869",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "225",
+    "title": "Pseudorandomness",
+    "faculty": [
+      {
+        "id": "Fba6f67cdb84f203cc4d6c531b5629fbe",
+        "first": "Salil",
+        "middle": "P.",
+        "last": "Vadhan",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "319"
+      }
+    ],
+    "description": "Efficiently generating objects that \"look random\" despite being constructed using little or no randomness. Connections and applications to computational complexity, cryptography, and combinatorics. Pseudorandom generators, randomness extractors, expander graphs, error-correcting codes, hash functions.",
+    "prerequisites": "Exposure to randomized algorithms (as in Computer Science 124 or 125), computational complexity (as in Computer Science 121 or 125), and algebra (as in Applied Mathematics 106 or Mathematics 123).",
+    "requirements": {
+      "1": [
+        "COMPSCI121"
+      ],
+      "2": [
+        "COMPSCI124"
+      ],
+      "3": [
+        "COMPSCI125"
+      ],
+      "4": [
+        "MTH123"
+      ],
+      "5": [
+        "APMTH106"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4883",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "278",
+    "title": "Rendering and Image Processing in Computer Graphics",
+    "faculty": [
+      {
+        "id": "Fe37b7e34e6c6adf9d7431b16ba61a9ac",
+        "first": "Steven",
+        "middle": "J.",
+        "last": "Gortler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Advanced course in computer graphics focusing on image rendering and processing. Topics include: light transport, efficient rendering, image based rendering, texture processing, interactive image processing.",
+    "prerequisites": "Computer Science 175 or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI175"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "4949",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "50",
+    "title": "Introduction to Computer Science I",
+    "faculty": [
+      {
+        "id": "F98d2c536d93571eff451df8bd44823d8",
+        "first": "David",
+        "middle": "J.",
+        "last": "Malan",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Memorial Hall",
+        "room": "Sanders Theatre"
+      }
+    ],
+    "description": "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, PHP, and JavaScript plus SQL, CSS, and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "Undergraduates, GSAS students, and cross-registered students may take CS50 either Satisfactory/Unsatisfactory (SAT/UNS) or for a letter grade. To take CS50 SAT/UNS, register for catalog number 43861. To take CS50 for a letter grade, register for catalog number 4949. When taken for a letter grade, this course meets the General Education requirement for undergraduates for Empirical and Mathematical Reasoning. See course website for FAQs. This course will also meet on Fri 9/5 and Fri 10/17. Students with conflicts may watch those lectures online."
+  },
+  {
+    "cat_num": "49684",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "260r",
+    "title": "Projects and Close Readings in Software Systems",
+    "faculty": [
+      {
+        "id": "Fcdf8bf39a49c70d6218dd80cd27b715b",
+        "first": "Eddie",
+        "middle": "",
+        "last": "Kohler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "221"
+      }
+    ],
+    "description": "Modern software systems construction and analysis. Distributed systems; operating systems; networks; data centers; big data; emerging systems deployments. Close, careful reading of research papers and code, coupled with programming projects. Readability and programmability. Topic focus will change each offering. May be repeated for credit with instructor permission.",
+    "prerequisites": "Programming experience and instructor permission.",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "5207",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "124",
+    "title": "Data Structures and Algorithms",
+    "faculty": [
+      {
+        "id": "F2b1aa692e853a5d6b4059d87f5626178",
+        "first": "Jelani",
+        "middle": "",
+        "last": "Nelson",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Science Center",
+        "room": " C"
+      }
+    ],
+    "description": "Design and analysis of efficient algorithms and data structures. Algorithm design methods, graph algorithms, approximation algorithms, and randomized algorithms are covered.",
+    "prerequisites": "Computer Science 50 or equivalent; Computer Science 51 is helpful. Some exposure to discrete applied mathematics, such as Applied Mathematics 106 or 107 or Computer Science 121 or Statistics 110, is also helpful.",
+    "requirements": {
+      "1": [
+        "COMPSCI50",
+        "COMPSCI121"
+      ],
+      "2": [
+        "COMPSCI50",
+        "STATS110"
+      ],
+      "3": [
+        "COMPSCI51",
+        "COMPSCI121"
+      ],
+      "4": [
+        "COMPSCI51",
+        "STATS110"
+      ]
+    },
+    "notes": "Starting in the spring of 2013, Computer Science 124 will assume background from Computer Science 20. Students will not receive credit for both CS 124 and CS 125."
+  },
+  {
+    "cat_num": "52264",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "363",
+    "title": "Programming Languages and Security",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "5415",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "144r",
+    "title": "Networks Design Projects",
+    "faculty": [
+      {
+        "id": "Fab8407c04815d5cc75e496a62d13b31b",
+        "first": "H.T.",
+        "middle": "",
+        "last": "Kung",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Cooperative design and development of advanced network-based systems with both technology and business considerations. Students will work in 2 person teams. Student work will include reading assignments, homework sets, a project proposal, and project reports and presentations. At the end of the class, all teams will defend their approaches and results in front of the class and invited guests.",
+    "prerequisites": "Computer Science 143 or equivalent experience.",
+    "requirements": {
+      "1": [
+        "COMPSCI143"
+      ]
+    },
+    "notes": "Preference given to upper-class undergraduates or graduate students in computer science or in business."
+  },
+  {
+    "cat_num": "560",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "165",
+    "title": "Data Systems",
+    "faculty": [
+      {
+        "id": "Faa7f05b3ea5892d11570772b0c4a332d",
+        "first": "Stratos",
+        "middle": "",
+        "last": "Idreos",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "We are in the big data era and data systems sit in the critical path of everything we do, i.e., in businesses, in sciences, as well as in everyday life. This course will be a comprehensive introduction to modern data systems. The primary focus of the course will be on modern trends that are shaping the data management industry right now such as column-store and hybrid systems, shared nothing architectures, cache conscious algorithms, hardware/software codesign, main memory systems, adaptive indexing, stream processing, scientific data management, and key value stores. We will also study the history of data systems and traditional and seminal concepts and ideas such as the relational model, row-store database systems, optimization, indexing, concurrency control, recovery and SQL in order to understand both how data systems have evolved over the years and why, as well as how these concepts apply today and how data systems might evolve in the future.",
+    "prerequisites": "Computer Science 51 and Computer Science 61.",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI61"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "5812",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "221",
+    "title": "Computational Complexity",
+    "faculty": [
+      {
+        "id": "Fba6f67cdb84f203cc4d6c531b5629fbe",
+        "first": "Salil",
+        "middle": "P.",
+        "last": "Vadhan",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "A quantitative theory of the resources needed for computing and the impediments to efficient computation. The models of computation considered include ones that are finite or infinite, deterministic, randomized, quantum or nondeterministic, discrete or algebraic, sequential or parallel.",
+    "prerequisites": "Computer Science 121 or equivalent.",
+    "requirements": {
+      "1": [
+        "COMPSCI121"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6154",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "345",
+    "title": "High-Performance Computer Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6156",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "346",
+    "title": "High-Performance Computer Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "61638",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "304",
+    "title": "Statistical Machine Learning",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6223",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "312",
+    "title": "Collaborative Systems, AI Planning, and Natural Language Processing",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "62802",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "288r",
+    "title": "Advanced Topics in Computer Vision",
+    "faculty": [
+      {
+        "id": "F2c9aa22a2d066d6e5b72b083721f96c7",
+        "first": "Todd",
+        "middle": "",
+        "last": "Zickler",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Seminar course exploring recent research in computer vision. Topics vary from year to year, typically including object recognition; activity recognition; and visual surveillance. Students read and present research papers and undertake a research project.",
+    "prerequisites": "Applied Math 21b or equivalent; Statistics 110 or equivalent; or permission of the instructor.",
+    "requirements": {
+      "1": [
+        "APMTH21B",
+        "STAT110"
+      ],
+      "2": [
+        "MTH21B",
+        "STAT110"
+      ],
+      "3": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6401",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "143",
+    "title": "Computer Networks",
+    "faculty": [
+      {
+        "id": "Fab8407c04815d5cc75e496a62d13b31b",
+        "first": "H.T.",
+        "middle": "",
+        "last": "Kung",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "119"
+      }
+    ],
+    "description": "Networking has enabled the emergence of mobile and cloud computing, creating the most important technological paradigm shift in computing of the past decade. Further advancements in networking are expected to similarly transform the technological landscape over the next decade through the emergence of the Internet of Things and gigabit wireless networks. In order to play a role in this era of new network-powered advancements, students must have a thorough understanding of emerging networking topics. Rather than teaching the basic networking protocols, which have become very mature and can be treated as a black box, in CS 143, we will teach the new issues and topics of interest which will power important emerging applications. This focus on upcoming applications is the motivation for CS 143 this semester. The class will be organized into the following nine modules: Basic Networking Concepts: Protocol Layering; Internet of Things: All-service Bluetooth Low Energy (BLE); Data Center Networking: Software Defined Networking; Web-scale Networking: Distributed Cloud Computing and Virtual Machine Migration; Content Networks: Video Streaming; Network Security: Defense Against Protocol Exploitation; Wireless Networking: Wireless Mesh, Geographic Routing; Machine Learning Assisted Networking: End-to-end Application Adaptive Protocols; Cyber-physical Networks: Vehicular Networking. Students will have the opportunity to implement the concepts learned in the course through programming assignments, read and discuss the latest networking literature, and design and implement a final project.",
+    "prerequisites": "Strong interest in the subject matter and programming experience (CS50 should be fine). Lab sessions will be provided to give extra support.",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6454",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "181",
+    "title": "Machine Learning",
+    "faculty": [
+      {
+        "id": "Fefe45dc30f2e22210fc16a9feda336be",
+        "first": "Ryan",
+        "middle": "Prescott",
+        "last": "Adams",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Jefferson Lab",
+        "room": "250"
+      }
+    ],
+    "description": "Introduction to machine learning, providing a probabilistic view on artificial intelligence and reasoning under uncertainty. Topics include: supervised learning, ensemble methods and boosting, neural networks, support vector machines, kernel methods, clustering and unsupervised learning, maximum likelihood, graphical models, hidden Markov models, inference methods, and computational learning theory. Students should feel comfortable with multivariate calculus, linear algebra, probability theory, and complexity theory. Students will be required to produce non-trivial programs in Python.",
+    "prerequisites": "Computer Science 51, Computer Science 121, Statistics 110, Math 21a and 21b (or equivalent).",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI121",
+        "STAT110",
+        "MTH21A",
+        "MTH21B"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "669",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "121",
+    "title": "Introduction to the Theory of Computation",
+    "faculty": [
+      {
+        "id": "Fef8dd6205fc4f0d91a44b7c65bf603ad",
+        "first": "Harry",
+        "middle": "R.",
+        "last": "Lewis",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-115"
+      }
+    ],
+    "description": "General introduction to the theory of computation, teaching how to reason precisely about computation and prove mathematical theorems about its capabilities and limitations. Finite automata, Turing machines, formal languages, computability, uncomputability, computational complexity, and the P vs. NP question.",
+    "prerequisites": "experience in formal mathematics at the level of Computer Science 20.",
+    "requirements": {
+      "1": [
+        "COMPSCI20"
+      ]
+    },
+    "notes": "Students may not receive credit for both CS 121 and CS 125."
+  },
+  {
+    "cat_num": "6706",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "261",
+    "title": "Research Topics in Operating Systems",
+    "faculty": [
+      {
+        "id": "F69e7709bfa572dad6549b62e71dde145",
+        "first": "Margo",
+        "middle": "I.",
+        "last": "Seltzer",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "319"
+      }
+    ],
+    "description": "An introduction to operating systems research. Paper-based seminar course that introduces students to the state of the art in systems research through historical and quantitative lenses. Students will read and discuss research papers and complete a final research project.",
+    "prerequisites": "Computer Science 161, or equivalent.",
+    "requirements": {
+      "1": [
+        "COMPSCI161"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "67371",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "364",
+    "title": "Programming Languages and Security",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6832",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "375",
+    "title": "Computer Graphics",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6841",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "152",
+    "title": "Programming Languages",
+    "faculty": [
+      {
+        "id": "Fee479778e183acc835de097457884530",
+        "first": "Stephen",
+        "middle": "",
+        "last": "Chong",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Comprehensive introduction to the principal features and overall design of both traditional and modern programming languages, including syntax, formal semantics, abstraction mechanisms, modularity, type systems, naming, polymorphism, closures, continuations, and concurrency. Provides the intellectual tools needed to design, evaluate, choose, and use programming languages.",
+    "prerequisites": "Computer Science 51; Computer Science 121 is recommended. Students must have good programming skills, be comfortable with recursion, basic mathematical ideas and notations.",
+    "requirements": {
+      "1": [
+        "COMPSCI51",
+        "COMPSCI121"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "6903",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "1",
+    "title": "Great Ideas in Computer Science",
+    "faculty": [
+      {
+        "id": "Ff53a190322d756affba4b113b9b2bb5b",
+        "first": "Henry",
+        "middle": "H.",
+        "last": "Leitner",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-115"
+      }
+    ],
+    "description": "An introduction to the most important discoveries and intellectual paradigms in computer science, designed for students with little or no previous background. Explores problem-solving using high and low-level programming languages; presents an integrated view of computer systems, from switching circuits up through compilers and GUI design. Examines theoretical and practical limitations related to unsolvable and intractable computational problems, and the social and ethical dilemmas presented by such issues as software unreliability and invasions of privacy.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "May not be taken for credit after completing Computer Science 50. This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning."
+  },
+  {
+    "cat_num": "70866",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "109",
+    "title": "Data Science",
+    "faculty": [
+      {
+        "id": "F4601e9030f00ad9a0ccc5a27d3073908",
+        "first": "Verena",
+        "middle": "S",
+        "last": "Kaynig-Fittkau",
+        "suffix": ""
+      },
+      {
+        "id": "F60c5662b12ec0618fbb5838ddf3b2d1c",
+        "first": "Rafael",
+        "middle": "A.",
+        "last": "Irizarry",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Northwest Building",
+        "room": "B103"
+      }
+    ],
+    "description": "Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries. Built around three modules: prediction and elections, recommendation and business analytics, and sampling and social network analysis.",
+    "prerequisites": "Programming knowledge at the level of CS 50 or above, and statistics knowledge at the level of Stat 100 or above (Stat 110 recommended).",
+    "requirements": {
+      "1": [
+        "COMPSCI50",
+        "STAT110"
+      ],
+      "2": [
+        "COMPSCI50",
+        "STAT100"
+      ]
+    },
+    "notes": "Only one of CS 109, AC 209, or Stat 121 can be taken for credit. Only admitted graduate students can take AC 209, in which case we expect significant differences in readings, assignments, and projects."
+  },
+  {
+    "cat_num": "7191",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "248",
+    "title": "Advanced Design of VLSI Circuits and Systems",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "The contents and course requirements are similar to those of Computer Science 148, with the exception that students enrolled in Computer Science 248 are expected to do a substantial design project and paper discussions on advanced topics.",
+    "prerequisites": "Computer Science 141 or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI141"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "7295",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "164",
+    "title": "Software Engineering",
+    "faculty": [
+      {
+        "id": "F98d2c536d93571eff451df8bd44823d8",
+        "first": "David",
+        "middle": "J.",
+        "last": "Malan",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Introduction to principles of software engineering and best practices, including code reviews, source control, and unit tests. Topics include Ajax, database schemas, event handling, HTTP, MVC, object-oriented design, and user experience. Projects include web apps with front-end UIs (mobile and desktop) and back-end APIs. Languages include JavaScript and PHP.",
+    "prerequisites": "Any four CS courses numbered 50 or higher (or, with instructor permission, multiple years of programming experience).",
+    "requirements": {
+    },
+    "notes": "Students will work on projects in groups. Enrollment may be limited. In 2014, this course will focus on the design and implementation of web apps."
+  },
+  {
+    "cat_num": "7313",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "376",
+    "title": "Computer Graphics",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "73819",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "378",
+    "title": "Sketching Algorithms for Massive Data",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "74473",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "284r",
+    "title": "Topics on Computation in Networks and Crowds",
+    "faculty": [
+      {
+        "id": "F7a10f30a355e2b5af732a540f1c62336",
+        "first": "Yaron",
+        "middle": "",
+        "last": "Singer",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "100F"
+      }
+    ],
+    "description": "Topics on the design and analysis of algorithms, processes, and systems related to crowds and social networks. Readings in AI, theoretical CS, machine learning, social science theory, economic theory, and operations research.",
+    "prerequisites": "Mathematics 21b, Applied Mathematics 21b, or equivalent; Computer Science 124, and 181 or 182, or equivalents; or permission of instructor.",
+    "requirements": {
+      "1": [
+        "APMTH21B",
+        "COMPSCI124",
+        "COMPSCI181"
+      ],
+      "2": [
+        "APMTH21B",
+        "COMPSCI124",
+        "COMPSCI182"
+      ],
+      "3": [
+        "MTH21B",
+        "COMPSCI124",
+        "COMPSCI181"
+      ],
+      "4": [
+        "MTH21B",
+        "COMPSCI124",
+        "COMPSCI182"
+      ],
+      "5": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "7499",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "96",
+    "title": "System Design Projects",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "Cooperative design, development, and testing of a sizable and realistic computer system. Students work as a group with a client on a real-world open-ended problem, and gain experience in problem definition, software development, and system lifecycle issues, and in the area of application. Students work in groups; both student participation in the classroom and effective group cooperation outside the classroom are stressed.",
+    "prerequisites": "Computer Science 51 or 61.",
+    "requirements": {
+      "1": [
+        "COMPSCI51"
+      ],
+      "2": [
+        "COMPSCI61"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "766",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "289",
+    "title": "Biologically-inspired Multi-agent Systems",
+    "faculty": [
+      {
+        "id": "F5a48e4e06e3dece44781a13510b69216",
+        "first": "Radhika",
+        "middle": "",
+        "last": "Nagpal",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "221"
+      }
+    ],
+    "description": "Surveys biologically-inspired approaches to designing distributed systems. Focus is on algorithms, analysis, and programming paradigms. Topics: swarm intelligence, amorphous computing, immune-inspired systems, synthetic biology. Discussion of research papers and a research project required.",
+    "prerequisites": "Experience with algorithms (e.g. Computer Science 124) and programming (e.g. Computer Science 51).",
+    "requirements": {
+      "1": [
+        "COMPSCI124"
+      ],
+      "2": [
+        "COMPSCI51"
+      ]
+    },
+    "notes": "Geared toward graduate students of all levels as well as advanced undergraduates. Preference given to graduate students or upper-level concentrators."
+  },
+  {
+    "cat_num": "7949",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "262",
+    "title": "Introduction to Distributed Computing",
+    "faculty": [
+      {
+        "id": "F3fa3d8ffd44ba622714297a5710b6f5a",
+        "first": "James",
+        "middle": "H.",
+        "last": "Waldo",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "An examination of the special problems associated with distributed computing such as partial failure, lack of global knowledge, asynchrony and coordination of time, and protocols that function in the face of these problems. Emphasis on both the theory that grounds thinking about these systems and in the ways to design and build such systems.",
+    "prerequisites": "Computer Science 161 or permission of instructor.",
+    "requirements": {
+      "1": [
+        "COMPSCI161"
+      ],
+      "2": [
+        "perm"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "8195",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "365",
+    "title": "SEAS Teaching Practicum",
+    "faculty": [
+      {
+        "id": "F75a61143b6c2cfad8f2048eed8b1f7dc",
+        "first": "John",
+        "middle": "",
+        "last": "Girash",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Seminar",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Seminar",
+        "building": "Pierce Hall",
+        "room": "100F"
+      }
+    ],
+    "description": "Gain effective skills for teaching applied sciences. Topics: presentation and communication, grading and giving feedback on assignments, cognition and learning, classroom practice and student interactions. Seminar style with an emphasis on observation, practice, feedback, discussion, and reflection.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "82359",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "250",
+    "title": "Software Foundations",
+    "faculty": [
+      {
+        "id": "F0d385eae518092ada5b41e8c64bb0f13",
+        "first": "Greg",
+        "middle": "",
+        "last": "Morrisett",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "100F"
+      }
+    ],
+    "description": "This course introduces concepts and techniques in the foundational study of programming languages, as well as their formal logical underpinnings. The central theme is the view of programs and languages as formal mathematical objects about which precise claims may be made and proved. Particular topics include operational techniques for formal definition of language features, type systems, and program logics. The models and proofs are formalized using mechanical theorem provers.",
+    "prerequisites": "Computer Science 51",
+    "requirements": {
+      "1": [
+        "COMPSCI51"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "82478",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "326",
+    "title": "Intelligent Interactive Systems and Human-Computer",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "8366",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "362",
+    "title": "Programming Languages and Semantics",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "85368",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "205",
+    "title": "Computing Foundations for Computational Science",
+    "faculty": [
+      {
+        "id": "Fab8407c04815d5cc75e496a62d13b31b",
+        "first": "H.T.",
+        "middle": "",
+        "last": "Kung",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "209"
+      }
+    ],
+    "description": "An applications course highlighting the use of computers in solving scientific problems. Students will be exposed to fundamental computer science concepts such as computer architectures, data structures, algorithms, and parallel computing. Fundamentals of scientific computing including abstract thinking, algorithmic development, and assessment of computational approaches. Students will learn to use open source tools and libraries and apply them to data analysis, modeling, and visualization of real scientific problems. Emphasizes parallel programming and \"parallel thinking.\"",
+    "prerequisites": "Students are expected to have basic programming experience (e.g., Computer Science 50).",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "8641",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "358",
+    "title": "Computational Complexity, Cryptography, and Pseudorandomness",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "8672",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "361",
+    "title": "Programming Languages and Semantics",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "87282",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "186",
+    "title": "Economics and Computation",
+    "faculty": [
+      {
+        "id": "Fb023f4580b03208372b9df7b3c6f8c6f",
+        "first": "David",
+        "middle": "",
+        "last": "Parkes",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "11:30:00",
+        "end_time": "13:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "The interplay between economic thinking and computational thinking as it relates to electronic commerce, social networks, collective intelligence and networked systems. Topics covered include: game theory, peer production, reputation and recommender systems, prediction markets, crowd sourcing, network influence and dynamics, auctions and mechanisms, privacy and security, matching and allocation problems, computational social choice and behavioral game theory. Emphasis will be given to core methodologies, with students engaged in theoretical, computational and empirical exercises.",
+    "prerequisites": "Applied Math 21b, Computer Science 51 or equivalent, Statistics 110, and one of Computer Science 181, Computer Science 182, Economics 1011a, Economics 1052, or Economics 1056.",
+    "requirements": {
+      "1": [
+        "APMTH21B",
+        "COMPSCI51",
+        "STAT110",
+        "COMPSCI181"
+      ],
+      "2": [
+        "APMTH21B",
+        "COMPSCI51",
+        "STAT110",
+        "COMPSCI182"
+      ],
+      "3": [
+        "APMTH21B",
+        "COMPSCI51",
+        "STAT110",
+        "EC1011A"
+      ],
+      "4": [
+        "APMTH21B",
+        "COMPSCI51",
+        "STAT110",
+        "EC1052"
+      ],
+      "5": [
+        "APMTH21B",
+        "COMPSCI51",
+        "STAT110",
+        "EC1056"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "8877",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "171",
+    "title": "Visualization",
+    "faculty": [
+      {
+        "id": "F87ee0d8b2acda02b005d9f8192de237b",
+        "first": "Alexander",
+        "middle": "",
+        "last": "Lex",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "14:30:00",
+        "end_time": "16:00:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-115"
+      }
+    ],
+    "description": "An introduction to key design principles and techniques for visualizing data. Covers design practices, data and image models, visual perception, interaction principles, visualization tools, and applications. Introduces programming of web-based interactive visualizations.",
+    "prerequisites": "Students are expected to have basic programming experience (e.g., Computer Science 50).",
+    "requirements": {
+      "1": [
+        "COMPSCI50"
+      ]
+    },
+    "notes": "This course, when taken for a letter grade, meets the General Education requirement for Empirical and Mathematical Reasoning."
+  },
+  {
+    "cat_num": "90117",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "282r",
+    "title": "Decision-Making Under Uncertainty",
+    "faculty": [
+      {
+        "id": "F9e1afd5c9aa134f1b789f4d12af42426",
+        "first": "Finale",
+        "middle": "",
+        "last": "Doshi-Velez",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "10:00:00",
+        "end_time": "11:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "100F"
+      }
+    ],
+    "description": "The focus of the Spring 2015 course will be reinforcement learning, a framework for solving problems involving a sequence of decisions with uncertain outcomes. This course will cover the fundamental theory through readings of classic papers and build practical intuition through coding assignments. Topics will include Markov decision process and partially observable Markov decision processes, planning under uncertainty, model-free and model-based reinforcement learning, function approximation in reinforcement learning, and batch reinforcement learning.",
+    "prerequisites": "Students should be familiar with basic linear algebra, probability, and algorithms; courses such as Stat 110, AM 21b, and CS 124 may be helpful. Students will be expected to implement algorithms in programming languages such as Matlab, Python, and Java (e.g. CS 51).",
+    "requirements": {
+      "1": [
+        "STAT110"
+      ],
+      "2": [
+        "APMTH21B"
+      ],
+      "3": [
+        "COMPSCI124"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "92828",
+    "term": "",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "320",
+    "title": "Data Systems Design",
+    "faculty": [],
+    "schedule": [],
+    "locations": [],
+    "description": "",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "9751",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "105",
+    "title": "Privacy and Technology",
+    "faculty": [
+      {
+        "id": "F3fa3d8ffd44ba622714297a5710b6f5a",
+        "first": "James",
+        "middle": "H.",
+        "last": "Waldo",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "2",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "4",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Pierce Hall",
+        "room": "301"
+      }
+    ],
+    "description": "What is privacy, and how is it affected by recent developments in technology? This course critically examines popular concepts of privacy and uses a rigorous analysis of technologies to understand the policy and ethical issues at play. Case studies: database anonymity, research ethics, wiretapping, surveillance, and others. Course relies on some technical material, but is open and accessible to all students, especially those with interest in economics, engineering, political science, computer science, sociology, biology, law, government, philosophy.",
+    "prerequisites": "",
+    "requirements": {
+    },
+    "notes": "This course, when taken for a letter grade, meets the General Education requirement for Culture and Belief."
+  },
+  {
+    "cat_num": "97848",
+    "term": "FALL",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "281",
+    "title": "Advanced Machine Learning",
+    "faculty": [
+      {
+        "id": "Fefe45dc30f2e22210fc16a9feda336be",
+        "first": "Ryan",
+        "middle": "Prescott",
+        "last": "Adams",
+        "suffix": ""
+      }
+    ],
+    "schedule": [],
+    "locations": [],
+    "description": "Advanced statistical machine learning and probabilistic data analysis. Topics include: Markov chain Monte Carlo, variational inference, Bayesian nonparametrics, text topic modeling, unsupervised learning, dimensionality reduction and visualization. Requires a major final project.",
+    "prerequisites": "Students should feel comfortable with basic linear algebra and probability theory. Students will be expected to implement algorithms in a programming language such as Matlab, Python or R.",
+    "requirements": {
+      "1": [
+        "APMTH21B"
+      ],
+      "2": [
+        "STAT110"
+      ],
+      "3": [
+        "MTH21B"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "979",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "246",
+    "title": "Advanced Computer Architecture",
+    "faculty": [
+      {
+        "id": "F7f384ab8ed6845286c5a6be08e4e28a5",
+        "first": "David",
+        "middle": "",
+        "last": "Brooks",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "The contents and course requirements are similar to those of Computer Science 146, with the exception that students enrolled in Computer Science 246 are expected to undertake a substantial course project.",
+    "prerequisites": "Computer Science 141.",
+    "requirements": {
+      "1": [
+        "COMPSCI141"
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "cat_num": "99684",
+    "term": "SPRING",
+    "bracketed": false,
+    "field": "COMPSCI",
+    "number": "146",
+    "title": "Computer Architecture",
+    "faculty": [
+      {
+        "id": "F7f384ab8ed6845286c5a6be08e4e28a5",
+        "first": "David",
+        "middle": "",
+        "last": "Brooks",
+        "suffix": ""
+      }
+    ],
+    "schedule": [
+      {
+        "day": "1",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      },
+      {
+        "day": "3",
+        "type": "Lecture",
+        "optional": false,
+        "begin_time": "13:00:00",
+        "end_time": "14:30:00"
+      }
+    ],
+    "locations": [
+      {
+        "type": "Lecture",
+        "building": "Maxwell Dworkin",
+        "room": "G-125"
+      }
+    ],
+    "description": "Review of the fundamental structures in modern processor design. Topics include computer organization, memory system design, pipelining, and other techniques to exploit parallelism. Emphasis on a quantitative evaluation of design alternatives and an understanding of timing issues.",
+    "prerequisites": "Computer Science 141.",
+    "requirements": {
+      "1": [
+        "COMPSCI141"
+      ]
+    },
+    "notes": ""
+  }
+]
